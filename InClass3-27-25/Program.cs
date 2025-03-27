@@ -10,6 +10,9 @@ namespace InClass20250311
     {
         static void Main(string[] args) // This is the 'entry point' of our project
         {
+            Console.WriteLine("Andrea Forero");
+            Console.WriteLine(" Ethan Chaney");
+
             // Console.WriteLine("Hello");
             int result;
             result = Cube(42); // "Invoke or Call" the method
